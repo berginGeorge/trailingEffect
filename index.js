@@ -56,6 +56,8 @@ class Atom {
   }
 }
 
+//comment out below code to skip generating atoms effects on its own
+
 const point  = {
     x: 0,
     y: 0
